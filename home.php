@@ -24,7 +24,7 @@
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคาย่อมเยาวราช</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อยยยยย</li>
+				<li><a href="contact.php">ติดต่อยยยยยใหม่อีกรอบ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
